@@ -1,0 +1,17 @@
+https://www.django-rest-framework.org/
+https://www.postman.com/downloads/
+https://code.visualstudio.com/download
+    
+
+CRUD
+REFATORAÇÃO
+CLASS BASED VIEW
+VIEW SET
+VALIDACAO 
+AUTH
+DOCS
+DEPLOY
+
+
+Desenvimento de API com Django Rest Framework - (Crud) #01
+Desenvimento de API com Django Rest Framework - Refatoração usando ViewSet #02
